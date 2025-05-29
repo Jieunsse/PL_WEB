@@ -11,6 +11,7 @@
     "test": "vitest"
   },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
     "axios": "^1.9.0",
     "normalize.css": "^8.0.1",
     "react": "^19.1.0",
